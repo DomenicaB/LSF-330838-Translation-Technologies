@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Renewable energy</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Erneuerbare Energie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SUMMARY OF:</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>ZUSAMMENFASSUNG DES DOKUMENTS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Directive (EU) 2018/2001 on the promotion of the use of energy from renewable sources</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Richtlinie (EU) 2018/2001 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WHAT IS THE AIM OF THE DIRECTIVE?</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>WAS IST DER ZWECK DIESER RICHTLINIE?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It recasts and repeals previous legislation (Directive 2009/28/EC, Directive (EU) 2015/1513 and Council Directive 2013/18/EU).</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Die Richtlinie bewirkt eine Neufassung und Aufhebung bisheriger Rechtsvorschriften (Richtlinie 2009/28/EG, Richtlinie (EU) 2015/1513 und Richtlinie 2013/18/EU des Rates).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It establishes a common system to promote energy from renewable sources* across the different sectors.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Mit der Richtlinie wird ein gemeinsames System zur Förderung von Energie aus erneuerbaren Quellen* in den verschiedenen Sektoren eingeführt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In particular, it aims to:
+set a binding EU target for its share in the energy mix in 2030;
+regulate self-consumption for the first time; and
+establish a common set of rules for the use of renewables in electricity, heating and cooling, and transport in the EU.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Ihre Ziele sind insbesondere:
+die Festlegung eines verbindlichen EU-Ziels für ihren Anteil am Energiemix im Jahr 2030;
+die erstmalige Regulierung des Eigenverbrauchs; und
+die Festlegung eines gemeinsamen Regelwerks für die Nutzung erneuerbarer Energien bei der Stromerzeugung, Heizung und Kühlung sowie im Verkehrssektor in der EU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The increased use of energy from renewable sources will be crucial to combat climate change, protect our environment and reduce our energy dependency, as well as to contribute to the EU’s technological and industrial leadership and the creation of jobs and growth, including in rural and isolated areas.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Die verstärkte Nutzung von Energie aus erneuerbaren Quellen wird von entscheidender Bedeutung sein, um den Klimawandel zu bekämpfen, unsere Umwelt zu schützen und unsere Energieabhängigkeit zu verringern sowie zur technologischen und industriellen Führungsrolle der EU und zur Schaffung von Arbeitsplätzen und Wachstum beizutragen, auch in ländlichen und abgelegenen Gebieten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>KEY POINTS</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>WICHTIGE ECKPUNKTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Promoting renewable forms of energy is one of the goals of EU energy policy.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Die Förderung erneuerbarer Energiequellen ist eines der Ziele der EU-Energiepolitik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The increased use of energy from renewable sources is an important part of the package of measures needed to reduce greenhouse gas emissions and to comply with the 2015 Paris Agreement on Climate Change and the EU policy framework for climate and energy (2020 to 2030).</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Die vermehrte Nutzung von Energie aus erneuerbaren Quellen ist ein wesentliches Element des Maßnahmenbündels, das benötigt wird, um die Treibhausgasemissionen zu verringern sowie die im Rahmen des Pariser Klimaschutzübereinkommens von 2015 eingegangenen Verpflichtungen und den EU-Rahmen für die Klima- und Energiepolitik (2020 bis 2030) einzuhalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This recast directive, along with the revised Energy Efficiency Directive and a new Governance Regulation, is part of the Clean Energy for All Europeans package, which aims to provide new, comprehensive rules on energy regulation for the next decade.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Diese neugefasste Richtlinie ist zusammen mit der überarbeiteten Energieeffizienzrichtlinie und einer neuen Governance-Verordnung Teil des Pakets „Saubere Energie für alle Europäer“, das darauf abzielt, neue, umfassende Bestimmungen für die Energieregulierung für das nächste Jahrzehnt festzulegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The directive:</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Die Richtlinie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ensures that the EU’s binding target is achieved cost-effectively;
+establishes a stable, market-oriented European approach to renewable electricity;
+provides long-term certainty for investors and speeds up procedures for permits to build projects;
+enables consumers to take part in the energy transition with the right to produce their own renewable energy;
+increasing the use of renewables in the heating and cooling and the transport sectors;
+strengthens EU sustainability criteria for bioenergy.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>stellt sicher, dass das verbindliche Ziel der EU kosteneffizient erreicht wird;
+legt ein stabiles, marktorientiertes europäisches Konzept für erneuerbare Elektrizität fest;
+schafft langfristige Sicherheit für Investoren und beschleunigt die Verfahren für Genehmigungen zum Bau von Projekten;
+ermöglicht es den Verbrauchern, an der Energiewende teilzunehmen und ihre eigene erneuerbare Energie zu produzieren;
+fördert die Nutzung erneuerbarer Energien bei der Heizung und Kühlung sowie im Verkehrssektor;
+stärkt die Nachhaltigkeitskriterien der EU für Bioenergie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The directive includes:</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Die Richtlinie umfasst:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>a binding EU overall target for 2030 of at least 32% of energy from renewable sources;
+rules for cost-effective and market-based financial support for electricity from renewable sources;
+protection of support schemes from modifications which put existing projects at risk;
+cooperation mechanisms between EU countries, and between EU countries and non-EU countries;
+simplification of administrative procedures for renewables projects (including one-stop-shops, time-limits, and digitalisation);
+an improved guarantee of origin system, extended to all renewables;
+rules allowing consumers to produce their own electricity, individually or as part of renewable energy communities, without undue restrictions;
+in the heating and cooling sector:
+an annual increase of 1.3 percentage points in the share of renewable energy in the sector
+the right for consumers to disconnect from inefficient district heating and cooling systems and
+third-party access for suppliers of renewables and waste heat and cooling to district heating and cooling networks;
+in the transport sector:
+a binding target of 14% with
+a specific sub-target for advanced biofuels of 3.5% and
+caps on conventional biofuels and on high indirect land use change risk* biofuels;
+strengthened EU sustainability criteria for bioenergy, by extending their scope to cover all fuels produced from biomass regardless of their final energy use.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>ein verbindliches EU-Gesamtziel für 2030 von mindestens 32 % für den Anteil an erneuerbarer Energie;
+Regelungen für eine kostenwirksame und marktbasierte finanzielle Unterstützung für Elektrizität aus erneuerbaren Quellen;
+Maßnahmen für den Schutz von Förderregelungen vor Änderungen, die bestehende Projekte gefährden;
+Kooperationsmechanismen zwischen EU-Ländern sowie zwischen EU-Ländern und Nicht-EU-Ländern;
+Maßnahmen für die Vereinfachung der Verwaltungsverfahren für Projekte im Bereich der erneuerbaren Energien (einschließlich One-Stop-Shops, Fristen und Digitalisierung);
+ein verbessertes Herkunftsnachweissystem, das auf alle erneuerbaren Energien ausgedehnt wird;
+Bestimmungen, die es den Verbrauchern ermöglichen, ihren eigenen Strom zu erzeugen, einzeln oder als Teil von Erneuerbare-Energie-Gemeinschaften, ohne übermäßige Einschränkungen;
+im Wärme- und Kältesektor:
+eine jährliche Steigerung des Anteils der erneuerbaren Energie in diesem Sektor um 1,3 Prozentpunkte
+das Recht der Verbraucher, sich von ineffizienten Fernwärme- und Fernkältesystemen abzukoppeln, und
+Zugang Dritter für Anbieter von erneuerbaren Energien sowie Abwärme und -kälte zu Fernwärme- und Fernkältenetzen;
+im Verkehrssektor:
+ein verbindliches Ziel von 14 % mit
+einem spezifischen Teilziel für fortschrittliche Biokraftstoffe von 3,5 % und
+Obergrenzen für konventionelle Biokraftstoffe und Biokraftstoffe mit einem hohen Risiko indirekter Landnutzungsänderungen*;
+gestärkte EU-Nachhaltigkeitskriterien für Bioenergie, indem ihr Geltungsbereich auf alle aus Biomasse hergestellten Kraftstoffe ausgedehnt wird, unabhängig von ihrem Endenergieverbrauch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FROM WHEN DOES THE DIRECTIVE APPLY?</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>WANN TRITT DIE RICHTLINIE IN KRAFT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It has applied since 24 December 2018 and has to become law in EU countries by 30 June 2021.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Sie ist am 24. Dezember 2018 in Kraft getreten und muss bis zum 30. Juni 2021 von den EU-Ländern in nationales Recht umgesetzt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BACKGROUND</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>HINTERGRUND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see:</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Weiterführende Informationen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Renewable energy (European Commission).</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Erneuerbare Energie (Europäische Kommission).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>KEY TERMS</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>SCHLÜSSELBEGRIFFE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Energy from renewable sources: energy from renewable non-fossil sources, such as wind, solar (thermal and photovoltaic), aerothermal, geothermal, hydrothermal, ambient heat, tide, wave and other ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas and biogases.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Energie aus erneuerbaren Quellen: Energie aus erneuerbaren, nichtfossilen Energiequellen, wie z. B. Wind, Sonne (Solarthermie und Photovoltaik), aerothermische, geothermische und hydrothermische Energie, Umgebungsenergie, Gezeiten-, Wellen- und sonstige Meeresenergie, Wasserkraft und Energie aus Biomasse, Deponiegas, Klärgas und Biogas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Indirect land use change risk: changes in land use are brought about by growing more crops for ethanol or biodiesel production in response to the increased global demand for biofuels.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Risiko indirekter Landnutzungsänderungen: Veränderungen in der Landnutzung werden durch den Anbau von mehr Nutzpflanzen für die Ethanol- oder Biodieselproduktion als Reaktion auf die weltweit gestiegene Nachfrage nach Biokraftstoffen verursacht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There can be unintended consequences, including releasing more carbon emissions.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Dies kann unbeabsichtigte Folgen haben, u. a. die Freisetzung von mehr CO2-Emissionen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MAIN DOCUMENT</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>HAUPTDOKUMENT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources (recast) (OJ L 328, 21.12.2018, pp. 82-209)</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Neufassung) (ABl. L 328 vom 21.12.2018, S. 82-209)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>RELATED DOCUMENTS</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>VERBUNDENE DOKUMENTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 328, 21.12.2018, pp. 1-77)</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Verordnung (EU) 2018/1999 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über das Governance-System für die Energieunion und für den Klimaschutz, zur Änderung der Verordnungen (EG) Nr. 663/2009 und (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates, der Richtlinien 94/22/EG, 98/70/EG, 2009/31/EG, 2009/73/EG, 2010/31/EU, 2012/27/EU und 2013/30/EU des Europäischen Parlaments und des Rates, der Richtlinien 2009/119/EG und (EU) 2015/652 des Rates und zur Aufhebung der Verordnung (EU) Nr. 525/2013 des Europäischen Parlaments und des Rates (ABl. L 328 vom 21.12.2018, S. 1-77)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Directive (EU) 2018/2002 of the European Parliament and of the Council of 11 December 2018 amending Directive 2012/27/EU on energy efficiency (OJ L 328, 21.12.2018, pp. 210-230)</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Richtlinie (EU) 2018/2002 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Änderung der Richtlinie 2012/27/EU zur Energieeffizienz (ABl. L 328 vom 21.12.2018, S. 210-230)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (OJ L 315, 14.11.2012, pp. 1-56)</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Richtlinie 2012/27/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1-56)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See consolidated version.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Siehe konsolidierte Fassung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Directive 2009/28/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC (OJ L 140, 5.6.2009, pp. 16-62)</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20201123T130622Z">
+        <seg>Richtlinie 2009/28/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen und zur Änderung und anschließenden Aufhebung der Richtlinien 2001/77/EG und 2003/30/EG (ABl. L 140 vom 5.6.2009, S. 16-62)</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
