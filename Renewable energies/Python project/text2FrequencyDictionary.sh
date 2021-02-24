@@ -1,0 +1,1 @@
+python text2FrequencyDictionary.python erneuerbare_energie_de_renewable_energy_en_tmx__de_de_3.txt >erneuerbare_energie_de_renewable_energy_en-dic.txt
