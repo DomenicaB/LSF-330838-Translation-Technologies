@@ -1,11 +1,11 @@
-<doc parent_folder="upload" id="file18228239" filename="Erneuerbare_Energie_DE_Renewable_energy_en.tmx">
+﻿<doc parent_folder="upload" id="file18228239" filename="Erneuerbare_Energie_DE_Renewable_energy_en.tmx">
 <align>ARTICLE -Renewable Energy</align>
 <align>Renewable Energy
 Introduction
 Renewable energy sources are some of the most important sources of electricity for Germany, and the expansion of renewables is one of the central pillars in Germany's energy transition.</align>
 <align>Our energy supply is to become more climate-friendly, and is also to make us less dependent on imports of fossil fuels.</align>
 <align>Solar plant; Source: iStock.com/nullplus
-© iStock.com/nullplus</align>
+iStock.com/nullplus</align>
 <align>Germany’s electricity supply is becoming “greener” every year.</align>
 <align>The share of renewables in electricity consumption has steadily grown over the last few years – rising from around 6% in 2000 to around 38% in 2018. This means that the 35% target for 2020 was reached earlier than expected.</align>
 <align>By 2025, 40-45% of electricity consumed in Germany is to derive from renewables.</align>
@@ -14,7 +14,7 @@ Renewable energy sources are some of the most important sources of electricity f
 <align>Gross electricity generation in Germany in 2017, Working Group on Energy Balances, status: February 2018
 Enlarge
 Gross electricity generation in Germany in 2017 in TWh; preliminary figures incl. some estimates; **regenerative part; last updated: February 2018</align>
-<align>© Working Group on Energy Balances</align>
+<align>Working Group on Energy Balances</align>
 <align>Renewables are also becoming more important with regard to heat supply.</align>
 <align>At present, they account for 13.9% of final energy consumption for heat and cooling.</align>
 <align>By 2020, this share is to reach 14%.</align>
@@ -45,7 +45,7 @@ Competitive auctions have a cost-reducing effect
 Average funding awarded in the auctions for ground-mounted PV installations
 Average funding awarded in the auctions for ground-mounted PV installations
 Enlarge
-© BMWi</align>
+BMWi</align>
 <align>High realisation rates averaging around 95% for ground-mounted PV installations from the first five auction rounds show that almost all the projects awarded funding are actually built.</align>
 <align>In addition to the auctions focusing on one specific source of renewable energy, the 2017 Renewable Energy Sources Act also provided for the implementation of a pilot project where joint auctions for PV and onshore wind power capacity will be held between 2018 and 2020, resulting in a competition between different technologies.</align>
 <align>More information about how the level of funding will be determined can be found (in German) at Erneuerbare-Energien.de</align>

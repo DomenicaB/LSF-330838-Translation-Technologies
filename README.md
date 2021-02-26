@@ -9,4 +9,6 @@ This is the second test.
 
 ## h2
 
-_italic font_ *bold font*
+_italic font_ 
+
+*bold font*
